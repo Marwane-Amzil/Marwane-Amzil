@@ -55,3 +55,5 @@ But you might also find me composing some music (RAP, RNB, RAEGGAETONG, CLASSIC(
 
 
 ---
+
+I have started to put some subjects on medium, because i always like to write things but never took advantage and dive into this writing thing : Medium : [Medium](https://medium.com/@marwaneamzil5)
