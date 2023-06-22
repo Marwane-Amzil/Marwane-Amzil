@@ -26,7 +26,7 @@ I wield an array of languages, tools, and technologies with proficiency, includi
 - Testing: k6, jUnit
 - Cloud: Azure
 - Databases: PostgreSQL
-- Version Control: Git
+- Version Control: Git, { github ; gitlab }
 - Methodologies: Agile Project Management
 
 ## 🏗️ Building Digital Worlds
@@ -35,10 +35,13 @@ I wield an array of languages, tools, and technologies with proficiency, includi
 
 I've been privileged to lend my skills to some exciting projects:
 
-- **Cloud Implementation:** Forged a cloud using Azure/AWS/Wasabi registry, complete with a reverse proxy and LDAP authentication.
-- **Image Transfer Script:** Devised a secure and efficient Node.js script to transfer images between Nexus registries.
-- **C++ Game:** Spearheaded a team to bring a unique gaming concept to life, developing a game from scratch in C++.
+- **Cloud Development:** Developed a cloud-based solution using Azure/AWS/Wasabi, inclusive of a reverse proxy and LDAP authentication. This allowed our team to greatly expand their image storage capabilities and also complete applications. Enhanced security measures were implemented for access control, as well as inbound and outbound traffic on the registry via the HTTPS protocol. This also incorporated Azure's hashing and additional security features developed by Microsoft.
+  
+- **Image Transfer Utility:** Created a reliable and high-performing Node.js script for image transfer between Nexus registries. This tool gave our devOps team insight into concurrent API call manipulation while controlling data flow, and it provided a secure method to handle potential interference from external processes running in parallel.
+  
+- **C++ Gaming Project:** Led a team in creating a unique game concept using C++. The primary objective was extensive learning, which led us to explore numerous possibilities, often delving deep into specific concepts. The project spanned over 18 months and significantly improved my discernment and decision-making skills, making them more grounded and succinct. It fostered a realization that no idea is bad and that research doesn't equate to commitment, promoting an environment of acceptance for new proposals.
 
+  
 ## 🎵 Life Beyond Code
 
 ![Music](https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif)
